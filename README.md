@@ -65,3 +65,5 @@ Lint all `.spec.js` files in of `~/tests`.
 
 #### `npm run deploy`
 Helper script to run linter, tests, and then, on success, compile your application to disk.
+
+Based on [https://github.com/davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
