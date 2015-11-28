@@ -6,6 +6,10 @@ Requirements
 
 Node `^4.0.0` or `^5.0.0` ([npm3](https://www.npmjs.com/package/npm3) recommended).
 
+Demo
+--------
+[redux-router-breadcrumbs](https://redux-router-breadcrumbs.herokuapp.com)
+
 Features
 --------
 
