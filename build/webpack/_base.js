@@ -31,7 +31,8 @@ const webpackConfig = {
   ],
   resolve : {
     extensions : ['', '.js', '.jsx'],
-    alias      : config.get('utils_aliases')
+    alias      : config.get('utils_aliases'),
+    root       : "./src"
   },
   module : {
     loaders : [

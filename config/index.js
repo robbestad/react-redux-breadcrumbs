@@ -9,7 +9,7 @@ const config = new Map();
 // User Configuration
 // ------------------------------------
 config.set('dir_src',  'src');
-config.set('dir_dist', 'dist');
+config.set('dir_dist', 'dist/public');
 config.set('dir_test', 'tests');
 
 config.set('coverage_enabled', !argv.watch);
